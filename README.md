@@ -2,7 +2,7 @@
 
 A modern, responsive portfolio website built with React, TypeScript, and Tailwind CSS, featuring a beautiful dark theme and interactive UI elements.
 
-![Portfolio Preview](./src/assets/images/Josean.png)
+![Portfolio Preview](./src/assets/images/portfolio.png)
 
 ## 🚀 Features
 
