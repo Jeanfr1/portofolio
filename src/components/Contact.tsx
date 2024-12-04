@@ -1,6 +1,6 @@
-import React from 'react';
-import { GlowingCard } from '../ui/GlowingCard';
-import { GlowingButton } from '../ui/GlowingButton';
+
+import { GlowingCard } from './ui/GlowingCard';
+import { GlowingButton } from './ui/GlowingButton';
 import { Github, Linkedin, Mail } from 'lucide-react';
 
 const socialLinks = [

@@ -2,6 +2,8 @@ import React from 'react';
 import { HeroTitle } from './HeroTitle';
 import { HeroActions } from './HeroActions';
 
+
+
 export function Hero() {
   const scrollToContact = (e: React.MouseEvent<HTMLAnchorElement>) => {
     e.preventDefault();

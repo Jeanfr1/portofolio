@@ -1,5 +1,5 @@
 import React from 'react';
-import { GlowingButton } from '../ui/GlowingButton';
+import { GlowingButton } from './ui/GlowingButton';
 import { Code, Sparkles } from 'lucide-react';
 import { Link } from 'react-router-dom';
 

@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Hero, About, Skills, Contact, Footer } from '../components/sections';
 
 function Home() {

@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Terminal } from 'lucide-react';
 import { TechIcons } from '../../../icons/TechIcons';
 

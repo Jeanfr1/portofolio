@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { GlowingCard } from '../../ui/GlowingCard';
 import { Code, Database, Globe, Layout } from 'lucide-react';
 

@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { GlowingCard } from '../components/ui/GlowingCard';
 import { ArrowLeft, Github } from 'lucide-react';
 import { Link } from 'react-router-dom';

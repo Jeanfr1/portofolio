@@ -1,5 +1,5 @@
-import React from 'react';
-import { GlowingCard } from '../ui/GlowingCard';
+
+import { GlowingCard } from './ui/GlowingCard';
 import { Brain, Code2, Palette, Rocket } from 'lucide-react';
 import profileImage from '../../assets/images/Josean.png';
 

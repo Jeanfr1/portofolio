@@ -1,4 +1,4 @@
-import React from 'react';
+
 import profileImage from '../../../assets/images/Josean.png';
 import { AboutImage } from './AboutImage';
 import { AboutContent } from './AboutContent';

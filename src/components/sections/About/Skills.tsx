@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Brain, Code2, Palette, Rocket } from 'lucide-react';
 import { SkillCard } from './SkillCard';
 
