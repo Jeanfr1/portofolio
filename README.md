@@ -2,7 +2,7 @@
 
 A modern, responsive portfolio website built with React, TypeScript, and Tailwind CSS, featuring a beautiful dark theme and interactive UI elements.
 
-![Portfolio Preview](./src/assets/images/Josean.png)
+![Portfolio Preview](./src/assets/images/portfolio.png)
 
 ## 🚀 Features
 
@@ -91,6 +91,7 @@ The website is fully responsive and optimized for:
 
 **Josean Araujo**
 
+- Url: (https://jeanfr1.github.io/portofolio/)
 - GitHub: [@Jeanfr1](https://github.com/Jeanfr1)
 - LinkedIn: [Josean Araujo](https://www.linkedin.com/in/josean-araujo-3ba63b17b/)
 
