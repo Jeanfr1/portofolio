@@ -12,10 +12,10 @@ const projects = [
     github: "https://github.com/Jeanfr1/new-explorer-front"
   },
   {
-    title: "Around React",
-    description: "A comprehensive React application focusing on user registration and authorization flows. Built with a strong emphasis on security and user experience, this project demonstrates implementation of modern authentication patterns and responsive UI design.",
+    title: "Aj CRM",
+    description: "Aj CRM is a modern and intuitive customer relationship management system built with React and Vite. This project features an interactive dashboard with real-time analytics, detailed customer profiles, and advanced marketing campaign tools. With a responsive interface and a focus on user experience, Aj CRM is ideal for businesses aiming to optimize customer relationship processes.",
     image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&q=80&w=1000",
-    github: "https://github.com/Jeanfr1/web_project_around_react"
+    github: "https://ajcrm.netlify.app/"
   },
   {
     title: "Around Auth",
@@ -24,10 +24,10 @@ const projects = [
     github: "https://github.com/Jeanfr1/web_project_around_auth"
   },
   {
-    title: "Full Stack API Project",
-    description: "A complete full-stack web application demonstrating end-to-end development capabilities. This project combines robust backend API development with a polished frontend interface, showcasing database integration, RESTful API design, and modern frontend frameworks.",
+    title: "Creative Agency",
+    description: "Creative Agency is a modern, responsive website showcasing the services and portfolio of our digital agency. Built with React, TypeScript, and Tailwind CSS, the project features smooth animations, interactive elements, and a sleek design that reflects our creative capabilities. Emphasizing performance optimization and user experience, this project is a prime example of modern UI/UX for digital agencies.",
     image: "https://images.unsplash.com/photo-1551650975-87deedd944c3?auto=format&fit=crop&q=80&w=1000",
-    github: "https://github.com/Jeanfr1/web_project_api_full"
+    github: "https://agencejaraujo.netlify.app/"
   }
 ];
 
